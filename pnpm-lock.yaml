@@ -36,7 +36,7 @@ importers:
       lint-staged: 11.2.6
       lodash: 4.17.21
       minimist: 1.2.5
-      pnpm: 6.20.0
+      pnpm: 6.20.1
       prettier: 2.4.1
       prettier-eslint-cli: 5.0.1
       rimraf: 3.0.2
@@ -80,7 +80,7 @@ importers:
       lint-staged: 11.2.6
       lodash: 4.17.21
       minimist: 1.2.5
-      pnpm: 6.20.0
+      pnpm: 6.20.1
       prettier: 2.4.1
       prettier-eslint-cli: 5.0.1
       rimraf: 3.0.2
@@ -17288,8 +17288,8 @@ packages:
     transitivePeerDependencies:
       - typescript
 
-  /pnpm/6.20.0:
-    resolution: {integrity: sha512-cvHd2DidfX55UsOIpkb3d/rO93NqSp1lN/9Yd46WYzUDdlwSW5CHL2ZxqIRq8s/sSXpojddcnTTyWKgjYRgv2w==}
+  /pnpm/6.20.1:
+    resolution: {integrity: sha512-Yoaw5M3zq4Bh7biOeF6zurnoixtFB7EjCQd4dPYoHnGPafwawy/thcCg0Ady8CKyBYXu35VnkEgP/DXE3A84bA==}
     engines: {node: '>=12.17'}
     hasBin: true
     dev: true
